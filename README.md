@@ -1,20 +1,22 @@
 # Hi
 # Welcome to My Portfolio! 👋
 
-My name is Mateusz, and I am a passionate learner transitioning into the world of **Artificial Intelligence** and **Machine Learning**. Over the past few months, I have focused on expanding my knowledge and refining my skills, and I am excited to showcase my projects.
+My name is Mateusz, and I am a passionate learner transitioning into the world of Artificial Intelligence and Machine Learning. Over the past few months, I have focused on expanding my knowledge and refining my skills, and I am excited to showcase my projects.
+
+Though I’m early in my career, I am deeply committed to continuous learning and growth. I embrace every challenge with enthusiasm, always striving to master new concepts, build practical skills, and deliver quality solutions. My curiosity drives me to explore and apply what I’ve learned to real-world problems.
 
 ---
 
 ## 🛠️ Professional Skills  
 - **Machine Learning & AI:**  
-  Hands-on experience with frameworks like Keras, TensorFlow, Scikit-learn, and MLflow, specializing in deep learning and natural language processing (NLP).  
+  Keras, TensorFlow, Scikit-learn, and MLflow.
+  Deep Learning, Neural Networks and NLP.  
 
 - **Data Processing:**  
-  Proficient in Python and SQL, with strong expertise in data manipulation and using tools like Jupyter Notebook, Google Colab, and VSCode.  
+  SQL, Jupyter Notebook, Google Colab, VSCode and Excel.  
 
 - **Data Analysis & Visualization:**  
-  Advanced skills in data analysis and visualization with tools such as NumPy, Pandas, Matplotlib, Seaborn, and Dash. I focus on turning data into actionable insights.  
-
+  NumPy, Pandas, Matplotlib, Seaborn, and Dash.
 ---
 
 ## 💪 Key Strengths  
@@ -32,4 +34,5 @@ My name is Mateusz, and I am a passionate learner transitioning into the world o
 
 ---
 
-I’m excited to continue growing my skills and applying them to real-world challenges. Feel free to explore my projects and connect if you’d like to collaborate! 🌟
+I’m excited to continue growing my skills and applying them to real-world challenges. 
+Feel free to explore my projects and connect if you’d like to collaborate! 🌟

@@ -10,6 +10,7 @@ Though I’m early in my career, I am deeply committed to continuous learning an
 ## 🛠️ Professional Skills  
 - **Machine Learning & AI:**  
   Keras, TensorFlow, Scikit-learn, and MLflow.
+  
   Deep Learning, Neural Networks and NLP.  
 
 - **Data Processing:**  
@@ -35,4 +36,5 @@ Though I’m early in my career, I am deeply committed to continuous learning an
 ---
 
 I’m excited to continue growing my skills and applying them to real-world challenges. 
+
 Feel free to explore my projects and connect if you’d like to collaborate! 🌟

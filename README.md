@@ -34,7 +34,4 @@ Though I’m early in my career, I am deeply **committed to continuous learning 
   Dedicated to continuous improvement, always aiming for high-quality results and striving for professional growth. 🎯
 
 ---
-
-I’m excited to continue growing my skills and applying them to real-world challenges. 
-
-Feel free to explore my projects and connect if you’d like to collaborate! 🌟
+**Feel free** to explore my projects and **connect** if you’d like to **collaborate**! 🌟

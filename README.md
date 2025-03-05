@@ -1,9 +1,9 @@
 # Hi
 # Welcome to My Portfolio! 👋
 
-My name is Mateusz, and I am a passionate learner transitioning into the world of Artificial Intelligence and Machine Learning. Over the past few months, I have focused on expanding my knowledge and refining my skills, and I am excited to showcase my projects.
+My name is Mateusz, and I am a **passionate learner** transitioning into the world of **Artificial Intelligence** and **Machine Learning**. Over the past few months, I have focused on **expanding my knowledge** and **refining my skills**, and I am **excited to showcase** my projects.
 
-Though I’m early in my career, I am deeply committed to continuous learning and growth. I embrace every challenge with enthusiasm, always striving to master new concepts, build practical skills, and deliver quality solutions. My curiosity drives me to explore and apply what I’ve learned to real-world problems.
+Though I’m early in my career, I am deeply **committed to continuous learning and growth**. I embrace every challenge with **enthusiasm**, always **striving to master new concepts**, **build practical skills**, and **deliver quality solutions**. My **curiosity** drives me to explore and apply what I’ve learned to **real-world problems**.
 
 ---
 
